@@ -10,3 +10,6 @@
 
 ### Client Setup
 
+- clone this repository and type the command ```cd react-test``` to enter the client directory
+- Run `npm install` or `yarn install` or `yarn` to iinstall all the required dependecies
+- Run `npm run dev` or `yarn dev` to start up the local development server
